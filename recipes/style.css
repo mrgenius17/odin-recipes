@@ -1,0 +1,16 @@
+body {
+    font-size: large;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h3 {
+    background-color: yellowgreen;
+}
